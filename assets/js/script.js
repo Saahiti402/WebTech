@@ -168,3 +168,9 @@ window.addEventListener("mousemove", function (event) {
   }
 
 });
+
+document.querySelector(".abc").addEventListener("click",function(){
+  alert(Mr/Miss ${document.getElementById('abcd').value}, your booking is confirmed at ${document.getElementById('abcdef').value} ${document.getElementById('abcde').value} ! )});
+
+
+document.querySelector(".cdf").addEventListener("click",function(){alert('You are subscribed!!')})
